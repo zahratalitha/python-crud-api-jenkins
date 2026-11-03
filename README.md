@@ -22,3 +22,5 @@ Aplikasi REST API sederhana untuk menyimpan, melihat, dan menghapus pesan.
 - ngrok
 
   Webhook test
+
+  Webhook test: setiap push ke branch main akan memicu Jenkins pipeline secara otomatis.
